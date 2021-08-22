@@ -482,6 +482,8 @@ dic_chi_to_eng = {
     '启用掉落记录': 'enable_drop_screenshot',
     '启用AzurStat': 'enable_azurstat',
     '掉落保存目录': 'drop_screenshot_folder',
+    '启用抗雾': 'anti_fog_setting', ###kkb
+    '抗雾参数': 'anti_fog_arg', ###kkb
     # '启用开荒': 'enable_map_clear_mode',
     # '开荒停止条件': 'clear_mode_stop_condition',
     # '地图全清星星': 'map_star_clear_all',
